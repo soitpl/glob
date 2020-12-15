@@ -1,5 +1,5 @@
 {
-    "name": "webmozart/glob",
+    "name": "soit/glob-webmozart-fork",
     "description": "A PHP implementation of Ant's glob.",
     "license": "MIT",
     "authors": [
